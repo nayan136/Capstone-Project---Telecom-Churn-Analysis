@@ -1,4 +1,6 @@
-Telecom Churn Analysis
+![alt text](https://github.com/tommyod/awesome-pandas/blob/master/img/awesome_pandas.png)
+------------------
+# Telecom Churn Analysis
 
 Customer Churn is one of the most important and challenging problems for businesses in a telecommunication company. It is important since it costs more to acquire new customers than it does to retain existing ones. The reasoning of customer churn can vary and would require domain knowledge to define properly, however, some common ones are poor service, better price somewhere etc. 
 
@@ -13,8 +15,9 @@ We try to find the correlation between churn and other continuous variables and 
 Since there are only a few categorical variables, we analyze each variable and find their relationship with churn.
 
 After using exploratory data analysis we can conclude that:  
-    1. Churn rate increases with an increase in customer service calls. To tackle this problem take feedback and suggestions regularly, try to implement them and strive for better communication.
-    2. Customers who have longer talk time in the morning has a high chance of discontinuing the subscription. If the company offer better talk time plans, especially for daytime customers, the churn rate may decrease.
-    3. Customers with an international plan, have a high chance of leaving the subscription. It increases even more for those with longer international calls.
-    4. To retain the customer company can offer better International plans. 
-    5. Offer more discounts and cashback to old customers to retain them.
+<br />
+    1. Churn rate increases with an increase in customer service calls. To tackle this problem take feedback and suggestions regularly, try to implement them and strive for better communication. <br />
+    2. Customers who have longer talk time in the morning has a high chance of discontinuing the subscription. If the company offer better talk time plans, especially for daytime customers, the churn rate may decrease. <br />
+    3. Customers with an international plan, have a high chance of leaving the subscription. It increases even more for those with longer international calls. <br />
+    4. To retain the customer company can offer better International plans. <br />
+    5. Offer more discounts and cashback to old customers to retain them. <br />
